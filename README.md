@@ -1,12 +1,5 @@
-<h1 align="center">MtGlitch dev</h1>
+<h1 align="center">MtGlitch</h1>
 <h3 align="center">A passionate senior dev, solves complex tasks</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=eloweld&label=Profile%20views&color=green&style=flat" alt="eloweld" /> 
-</p>
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/Weloxd#3546" target="blank">
@@ -19,7 +12,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,redis" />
   <img src="https://skillicons.dev/icons?i=cs,py,dart,js,ts,html" />
@@ -31,7 +24,7 @@
 
 ---
 
-<h3 align="left">🚀 Projects I've Contributed To:</h3>
+<h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://solget.io/favicon.svg" alt="SolGet" height="30" width="30" style="margin-right: 10px;" />
@@ -50,7 +43,7 @@
 
 ---
 
-<h3 align="left">💖 Support:</h3>
+<h3 align="left">Support:</h3>
 <p>
   <a href="https://ko-fi.com/weloxd"> 
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="weloxd" />
@@ -61,17 +54,7 @@
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eloweld" alt="eloweld" />
-  </a>
-  
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloweld&show_icons=true&locale=en&layout=compact" alt="eloweld" />
 </p>
