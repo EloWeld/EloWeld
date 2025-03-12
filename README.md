@@ -32,15 +32,28 @@
     — A platform for recover your SOL from blockchain.
   </div>
   
+---
+
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://unitool.ai/images/1.svg" alt="UniTool AI" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://unitool.ai" target="_blank"><strong>unitool.ai</strong></a>
     — A service for use all the best neural networks in one place and without VPN.
   </div>
+
+---
+
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://jetmeet.net/favicon.ico" alt="Jetmeet" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://jetmeet.net" target="_blank"><strong>jetmeet.net</strong></a>
     — Service for tinder profiles management.
+  </div>
+
+---
+  
+  <div style="margin-bottom: 15px;">
+    <img align="center" src="https://hablancer.com/images/favicon-dark.png" alt="Jetmeet" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://jetmeet.net" target="_blank"><strong>hablancer.com</strong></a>
+    — Freelance platform.
   </div>
   
   <em>I was the lead developer, handling both frontend and backend aspects of the projects.</em>
