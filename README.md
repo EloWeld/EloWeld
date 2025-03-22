@@ -57,6 +57,25 @@
   </div>
   
   <em>I was the lead developer, handling both frontend and backend aspects of the projects.</em>
+
+  <div style="margin-bottom: 15px;">
+    <h3>Telegram Bots</h3>
+    <img align="center" src="https://cdn4.cdn-telegram.org/file/KuTjcBXDmsOkrclMeW8WC-BNW3tRmXD6-gEy5gujMhPYVf9ipsIANaO4lR1ttSnWyhW6Vs4HYo873VHK5ppm2EZwMdiwye8WkKVTmbVvCFICJ5ENesLk2mLnD-ITbPofBgEQXVHENOWu78yMOck9_naDWquLXMv4WnpWHQFb5E-zYA9eto__JkGFdcqMlWqYERTeHBR1Q5kHm1uXNQqigCCRzhmeLUdowjT4DUFbck2NduDwH1GxR9h045UY0Yr5ayiwaj-xF_LewyvrZDEu926_DRFloOzICX0JsfZMXlaAkkNUSFbw-WzQxrDRAwPlTcuq2lDKeqrjKCXHY0Tmgw.jpg" alt="Blagoveda" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://t.me/blagoveda_bot" target="_blank"><strong>Blagoveda</strong></a>
+    <img align="center" src="https://cdn4.cdn-telegram.org/file/NRdRrsOg3c-LK1A9zU2IlJZrpPEgmNLLHHMhKo3uJpGSfJV1MtlHtHnahfA54vUj56tS-9wVgcNGFZXxWhgC_OxSyfa_-yta2zOdQqZGkc_VxyfI14JjjeFXzRDEoKODAVSdFTyQtqW1RToz-A5HD39M_6FnUNLU3K9FsHhaQC9xDIZOpxkeRhka--dMKtO2od_KloLfjSOdbugnZAJTaVdD8L-gmkrcs4a8aJ8cQthHXIDEfpBwTwrn9lJ_iHabxHXUKCaC_3GcyeOpiEkt5KQ9VJBU1Olf-N8EagxMMi0xTpEqvNVTpye7sQhL0ko3LZynlXZ79HB4RPPo9ILT9Q.jpg" alt="Mining Adviser" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://t.me/MiningAdviserBot" target="_blank"><strong>Mining Adviser</strong></a>
+     <img align="center" src="https://cdn4.cdn-telegram.org/file/DJnblVIBXV4Dy8-D-dCHKIvGeoM3-BxYWMo19g_gC_nuQjZUk9k_GnMsmctB-Aiinnuwf5ULzyzf7SdbzF7thK39FO_8Rq3-nKXVVKpwEHTzX_3JhUb1FxIVsVV_vDyAYofVLV0uixEOgF8iRxSM_KLXT-nIFmXTuMJm5awULMEphuxX7r18fM1umu_cayASjchzl9eGRLc7O0UWLqS20Q7WIARSWqKj7q4M9nARBNJR8qU8QXbXHQHsnmY9wHO_JlC7dtu8ivk3GZzmt_33voW7OKjwjHBFmzYdlHZMEnTPUIiXoeYYWWLiqiNhEI2FVWKwxbQ3aA6OaP97-dJDaQ.jpg" alt="Anti store" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://t.me/DevicesStoreBot" target="_blank"><strong>Anti Store</strong></a>
+  
+  <em>I was the lead developer, handling both frontend and backend aspects of the projects.</em>
+  </div>
+  <div style="margin-bottom: 15px;">
+    <h3>Games</h3>
+    <img align="center" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1175930/header.jpg?t=1587342948" alt="Ray eager" height="30" width="80" style="margin-right: 10px;" />
+    <a href="https://store.steampowered.com/app/1175930/Ray_Eager/" target="_blank"><strong>Ray Eager</strong></a>
+  </div>
+  <em>I wasn't the lead developer here, but I was a strong middle coder.</em>
+  
 </p>
 
 ---
