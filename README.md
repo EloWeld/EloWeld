@@ -36,7 +36,7 @@
 
   
   <div style="margin-bottom: 15px;">
-    <img align="center" src="https://hablancer.com/images/favicon-dark.png" alt="Hablancer" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://i.ibb.co/Q716gVmL/favicon-dark-180.png" alt="Hablancer" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://jetmeet.net" target="_blank"><strong>hablancer.com</strong></a>
     — Freelance platform.
   </div>
@@ -48,7 +48,7 @@
 <h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
   <div style="margin-bottom: 15px;">
-    <img align="center" src="https://solget.io/favicon.svg" alt="SolGet" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://i.ibb.co/8gNZH7JD/solget.png" alt="SolGet" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://solget.io" target="_blank"><strong>solget.io</strong></a>
     — A platform for recover your SOL from blockchain.
   </div>
@@ -61,7 +61,7 @@
 
 
   <div style="margin-bottom: 15px;">
-    <img align="center" src="https://jetmeet.net/favicon.ico" alt="Jetmeet" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://i.ibb.co/Q79sbfKr/favicon.png" alt="Jetmeet" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://jetmeet.net" target="_blank"><strong>jetmeet.net</strong></a>
     — Service for tinder profiles management.
   </div>
@@ -70,12 +70,16 @@
 
   <div style="margin-bottom: 15px;">
     <h3>Telegram Bots</h3>
-    <img align="center" src="https://cdn4.cdn-telegram.org/file/KuTjcBXDmsOkrclMeW8WC-BNW3tRmXD6-gEy5gujMhPYVf9ipsIANaO4lR1ttSnWyhW6Vs4HYo873VHK5ppm2EZwMdiwye8WkKVTmbVvCFICJ5ENesLk2mLnD-ITbPofBgEQXVHENOWu78yMOck9_naDWquLXMv4WnpWHQFb5E-zYA9eto__JkGFdcqMlWqYERTeHBR1Q5kHm1uXNQqigCCRzhmeLUdowjT4DUFbck2NduDwH1GxR9h045UY0Yr5ayiwaj-xF_LewyvrZDEu926_DRFloOzICX0JsfZMXlaAkkNUSFbw-WzQxrDRAwPlTcuq2lDKeqrjKCXHY0Tmgw.jpg" alt="Blagoveda" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://i.ibb.co/HTXHg5d5/photo-2025-11-13-01-57-13.jpg" alt="Blagoveda" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://t.me/blagoveda_bot" target="_blank"><strong>Blagoveda</strong></a>
-    <img align="center" src="https://cdn4.cdn-telegram.org/file/NRdRrsOg3c-LK1A9zU2IlJZrpPEgmNLLHHMhKo3uJpGSfJV1MtlHtHnahfA54vUj56tS-9wVgcNGFZXxWhgC_OxSyfa_-yta2zOdQqZGkc_VxyfI14JjjeFXzRDEoKODAVSdFTyQtqW1RToz-A5HD39M_6FnUNLU3K9FsHhaQC9xDIZOpxkeRhka--dMKtO2od_KloLfjSOdbugnZAJTaVdD8L-gmkrcs4a8aJ8cQthHXIDEfpBwTwrn9lJ_iHabxHXUKCaC_3GcyeOpiEkt5KQ9VJBU1Olf-N8EagxMMi0xTpEqvNVTpye7sQhL0ko3LZynlXZ79HB4RPPo9ILT9Q.jpg" alt="Mining Adviser" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://i.ibb.co/vvxD5ZHh/photo-2025-11-13-02-00-15.jpg" alt="Mining Adviser" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://t.me/MiningAdviserBot" target="_blank"><strong>Mining Adviser</strong></a>
-     <img align="center" src="https://cdn4.cdn-telegram.org/file/DJnblVIBXV4Dy8-D-dCHKIvGeoM3-BxYWMo19g_gC_nuQjZUk9k_GnMsmctB-Aiinnuwf5ULzyzf7SdbzF7thK39FO_8Rq3-nKXVVKpwEHTzX_3JhUb1FxIVsVV_vDyAYofVLV0uixEOgF8iRxSM_KLXT-nIFmXTuMJm5awULMEphuxX7r18fM1umu_cayASjchzl9eGRLc7O0UWLqS20Q7WIARSWqKj7q4M9nARBNJR8qU8QXbXHQHsnmY9wHO_JlC7dtu8ivk3GZzmt_33voW7OKjwjHBFmzYdlHZMEnTPUIiXoeYYWWLiqiNhEI2FVWKwxbQ3aA6OaP97-dJDaQ.jpg" alt="Anti store" height="30" width="30" style="margin-right: 10px;" />
+     <img align="center" src="https://i.ibb.co/hR7VK2Rw/photo-2025-11-13-01-57-20.jpg" alt="Anti store" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://t.me/DevicesStoreBot" target="_blank"><strong>Anti Store</strong></a>
+     <img align="center" src="https://i.ibb.co/jk7c0mKh/photo-2025-11-13-01-57-33.jpg" alt="Diforce" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://t.me/DiforceBot" target="_blank"><strong>Diforce</strong></a>
+
+    
   
   <em>I was the lead developer, handling both frontend and backend aspects of the projects.</em>
   </div>
