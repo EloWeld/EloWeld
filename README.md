@@ -47,12 +47,12 @@
 
 <h3 align="left">Projects I've Contributed To:</h3>
 <p align="left">
-  <div style="margin-bottom: 15px;">
+  <!-- <div style="margin-bottom: 15px;">
     <img align="center" src="https://qubu.ai/favicon.png" alt="Qugroup" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://qubu.ai" target="_blank"><strong>qubu.ai</strong></a> + 
     <a href="https://qudata.ai" target="_blank"><strong>qudata.ai</strong></a>
     — AI community + GPU rent service.
-  </div>
+  </div> -->
   
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://i.ibb.co/8gNZH7JD/solget.png" alt="SolGet" height="30" width="30" style="margin-right: 10px;" />
