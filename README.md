@@ -29,16 +29,26 @@
 <h3 align="left">My pet projects:</h3>
 <p align="left">
   <div style="margin-bottom: 15px;">
+    <a href="https://www.mt-glitch.tech/" target="_blank"><strong>mt-glitch.tech</strong></a>
+    — Site about my own experience (OLD)
+  </div>
+  <div style="margin-bottom: 15px;">
     <img align="center" src="https://i.ibb.co/Hfd8KXNt/markdown-logo.png" alt="Md" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://markdowner.mt-glitch.tech/" target="_blank"><strong>markdowner.mt-glitch.tech</strong></a>
     — Simple tool like pastebin, but focused on markdown
   </div>
+  
+  <div style="margin-bottom: 15px;">
+    <img align="center" src="https://thingdom.mt-glitch.tech/icon.svg" alt="Md" height="30" width="30" style="margin-right: 10px;" />
+    <a href="https://thingdom.mt-glitch.tech/" target="_blank"><strong>thingdom.mt-glitch.tech</strong></a>
+    — AI-Powered tool like CRM for you home-stuff, with really EASY adding, editing, visual-understanding
+  </div>
 
   
   <div style="margin-bottom: 15px;">
-    <img align="center" src="https://i.ibb.co/Hfd8KXNt/markdown-logo.png" alt="Md" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://meetsy.mt-glitch.tech/icon.svg" alt="Md" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://meetsy.mt-glitch.tech/" target="_blank"><strong>meetsy.mt-glitch.tech</strong></a>
-    — Tool for conference-calls recording, transcribation and summarization
+    — Tool for conference-calls recording, AI-powered transcribation and summarization
   </div>
   
   <div style="margin-bottom: 15px;">
@@ -47,11 +57,6 @@
     — VPN with two protocols realization
   </div>
   
-  <div style="margin-bottom: 15px;">
-    <img align="center" src="https://i.ibb.co/Hfd8KXNt/markdown-logo.png" alt="Md" height="30" width="30" style="margin-right: 10px;" />
-    <a href="https://www.mt-glitch.tech/" target="_blank"><strong>mt-glitch.tech</strong></a>
-    — Site about my own experience
-  </div>
 
   
   <div style="margin-bottom: 15px;">
@@ -76,7 +81,7 @@
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://i.ibb.co/8gNZH7JD/solget.png" alt="SolGet" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://solget.io" target="_blank"><strong>solget.io</strong></a>
-    — A platform for recover your SOL from blockchain.
+    — A platform for recover your SOL from blockchain. (They're closed forever.)
   </div>
 
   <div style="margin-bottom: 15px;">
@@ -85,11 +90,17 @@
     — A service for use all the best neural networks in one place and without VPN.
   </div>
 
+  <div style="margin-bottom: 15px;">
+    <img align="center" src="https://qudata.ai/logo.svg" alt="Qudata AI" height="30" width="120" style="margin-right: 10px;" />
+    <a href="https://qudata.ai" target="_blank"><strong>qudata.ai</strong></a>
+    — Service for rent GPU machines. And also rent it out your machines to society
+  </div>
+
 
   <div style="margin-bottom: 15px;">
     <img align="center" src="https://i.ibb.co/Q79sbfKr/favicon.png" alt="Jetmeet" height="30" width="30" style="margin-right: 10px;" />
     <a href="https://jetmeet.net" target="_blank"><strong>jetmeet.net</strong></a>
-    — Service for tinder profiles management.
+    — Service for tinder profiles management. (They're closed forever.)
   </div>
   
 ---
